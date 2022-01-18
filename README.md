@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
 YAML     8 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   35.12 % 
 Docker   8 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.34 % 
