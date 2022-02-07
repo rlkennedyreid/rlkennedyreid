@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
-Python     13 hrs 1 min    ████████▓░░░░░░░░░░░░░░░░   34.35 % 
-YAML       5 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Bash       4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-TOML       2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Markdown   2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Python   10 hrs 52 mins  ████████▓░░░░░░░░░░░░░░░░   34.11 % 
+YAML     3 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Bash     3 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+TOML     2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+HTML     1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 <!--END_SECTION:waka-->
