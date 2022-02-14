@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 12 February, 2022
+Week: 07 February, 2022 - 13 February, 2022
 
 Python     15 hrs 4 mins   █████████████████░░░░░░░░   67.66 % 
 YAML       1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
