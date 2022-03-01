@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2022 - 27 February, 2022
+Week: 22 February, 2022 - 28 February, 2022
 
 TeX          4 hrs 16 mins   ████████████████▒░░░░░░░░   65.46 % 
 sshconfig    35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
