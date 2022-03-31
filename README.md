@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 23 March, 2022 - 29 March, 2022
+Week: 24 March, 2022 - 30 March, 2022
 
-Python   17 hrs 24 mins  ███████████▓░░░░░░░░░░░░░   46.82 % 
-YAML     6 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Bash     3 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Other    2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-TOML     1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Python      18 hrs 54 mins  █████████████░░░░░░░░░░░░   51.86 % 
+YAML        5 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Bash        3 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Other       2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Caddyfile   1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 <!--END_SECTION:waka-->
