@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 02 April, 2022 - 08 April, 2022
+Week: 03 April, 2022 - 09 April, 2022
 
-Python      9 hrs 51 mins   █████████████▒░░░░░░░░░░░   53.08 % 
-YAML        3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Docker      1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Other       1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Caddyfile   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python      5 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.91 % 
+YAML        3 hrs 42 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.01 % 
+Docker      1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Other       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Caddyfile   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 <!--END_SECTION:waka-->
