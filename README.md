@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 24 April, 2022 - 30 April, 2022
+Week: 25 April, 2022 - 01 May, 2022
 
 Python     11 hrs 48 mins  ███████████████████████░░   92.41 % 
 Markdown   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
