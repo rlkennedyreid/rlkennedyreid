@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 29 May, 2022 - 04 June, 2022
+Week: 30 May, 2022 - 05 June, 2022
 
 sh           33 mins         ██████████░░░░░░░░░░░░░░░   40.12 % 
 YAML         21 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.15 % 
