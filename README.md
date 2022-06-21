@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2022 - 19 June, 2022
+Week: 14 June, 2022 - 20 June, 2022
 
 Python   6 hrs 13 mins   ███████████████████░░░░░░   75.34 % 
 TOML     1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 % 
