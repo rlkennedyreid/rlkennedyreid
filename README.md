@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2022 - 10 July, 2022
+Week: 05 July, 2022 - 11 July, 2022
 
 Python      13 hrs 21 mins  ██████████████▒░░░░░░░░░░   57.76 % 
 Bash        6 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 % 
