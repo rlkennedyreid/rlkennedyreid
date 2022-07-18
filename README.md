@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2022 - 16 July, 2022
+Week: 11 July, 2022 - 17 July, 2022
 
 Bash       9 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.39 % 
 YAML       4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
